@@ -1,4 +1,4 @@
-# tpSpring
+# Spring boot
 Ce projet consiste en une application de gestion permettant la supervision des étudiants, des programmes d'études, des rôles et des utilisateurs. Les étudiants partagent les caractéristiques des utilisateurs, et il est possible d'assigner des étudiants à des programmes d'études tout en octroyant des rôles aux utilisateurs.
 
 Pour la création de cette application, plusieurs technologies et outils ont été employés :
